@@ -1,0 +1,1 @@
+"# Read-the-Color"  git init git add . git commit -m "initial game" git branch -M main git remote add origin git@github.com:Google-Developer-Students-Club-DMCE/Read-the-Color.git git push -u origin main
