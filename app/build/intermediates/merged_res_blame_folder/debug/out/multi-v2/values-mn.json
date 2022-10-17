@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sr sawant\\AndroidStudioProjects\\ReadtheColor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sr sawant\\.gradle\\caches\\transforms-3\\9505ec858d7f16b12ef252ee2558df52\\transformed\\ui-1.0.1\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,283,375,461,582,669,750,823,894,967,1033",
+                        "endColumns": "91,85,91,85,120,86,80,72,70,72,65,116",
+                        "endOffsets": "192,278,370,456,577,664,745,818,889,962,1028,1145"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,283,375,461,582,669,750,823,894,1068,1134",
+                        "endColumns": "91,85,91,85,120,86,80,72,70,72,65,116",
+                        "endOffsets": "192,278,370,456,577,664,745,818,889,962,1129,1246"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sr sawant\\.gradle\\caches\\transforms-3\\d4ebc2a58516679844a8b69dcfdfdf69\\transformed\\core-1.8.0\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "967",
+                        "endColumns": "100",
+                        "endOffsets": "1063"
+                    }
+                }
+            ]
+        }
+    ]
+}
